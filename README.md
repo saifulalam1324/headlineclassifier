@@ -1,4 +1,5 @@
 # headlineclassifier
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+An ML-powered Headline Classifier integrated with a Flutter mobile application. The project uses a trained machine learning model to classify news headlines and provides predictions through a Flask API connected to the Flutter app.
+>>>>>>> 3b548932022d6f4a71c71b3096fe94b4e0c8b9c4
