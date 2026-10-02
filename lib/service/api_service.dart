@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class ApiService {
-  static const String baseUrl = "https://headline-api-7z8g.onrender.com";
+  static const String baseUrl = "https://headline-api-nvq2.onrender.com";
 
   static Future<String> classifyHeadline(String headline) async {
     try {
